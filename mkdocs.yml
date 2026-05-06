@@ -1,0 +1,4 @@
+site_name: 2048 Documentation
+
+theme:
+  name: material
